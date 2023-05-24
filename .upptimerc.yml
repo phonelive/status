@@ -8,7 +8,7 @@ sites:
   - name: App
     url: https://app.phonelivestreaming.com
   - name: API
-    url: https://api.phonelivestreaming.com
+    url: https://api.phonelivestreaming.com/test/grafana/synthetic/monitoring
     method: POST
     headers:
     - "Content-Type: application/json"
