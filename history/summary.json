@@ -1,6 +1,6 @@
 [
   {
-    "name": "Website (phonelivestreaming.com)",
+    "name": "Website",
     "url": "https://phonelivestreaming.com",
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "website-phonelivestreaming-com",
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "App (app.phonelivestreaming.com)",
+    "name": "App",
     "url": "https://app.phonelivestreaming.com",
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "app-app-phonelivestreaming-com",
@@ -36,7 +36,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "API (api.phonelivestreaming.com)",
+    "name": "API",
     "url": "https://api.phonelivestreaming.com/test/grafana/synthetic/monitoring",
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "api-api-phonelivestreaming-com",
@@ -54,7 +54,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Live-RTMP (live.phonelivestreaming.com)",
+    "name": "Live (RTMP)",
     "url": "live.phonelivestreaming.com",
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "live-rtmp-live-phonelivestreaming-com",
