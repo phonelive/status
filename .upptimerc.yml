@@ -33,9 +33,9 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Website Home
+    - title: Home
       href: https://phonelivestreaming.com/
-    - title: Dashboard App
+    - title: Dashboard
       href: https://app.phonelivestreaming.com/
     - title: Support
       href: https://phonelivestreaming.com/support/
