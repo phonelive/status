@@ -3,18 +3,18 @@ owner: phonelivestreaming
 repo: status
 
 sites:
-  - name: Website (phonelivestreaming.com)
+  - name: Website
     url: https://phonelivestreaming.com
     icon: https://phonelivestreaming.com/logo/icon.png
-  - name: App (app.phonelivestreaming.com)
+  - name: App
     url: https://app.phonelivestreaming.com
     icon: https://phonelivestreaming.com/logo/icon.png
-  - name: API (api.phonelivestreaming.com)
+  - name: API
     url: https://api.phonelivestreaming.com/test/grafana/synthetic/monitoring
     method: POST
     body: '{ "key": "$STATUS_API_KEY" }'
     icon: https://phonelivestreaming.com/logo/icon.png
-  - name: Live-RTMP (live.phonelivestreaming.com)
+  - name: Live (RTMP)
     url: live.phonelivestreaming.com
     check: "tcp-ping"
     port: 1935
