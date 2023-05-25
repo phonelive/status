@@ -38,15 +38,15 @@ status-website:
       href: https://app.phonelivestreaming.com/
     - title: Support
       href: https://phonelivestreaming.com/support/
-      
+
 workflowSchedule:
-  graphs: "*/5 * * * *"
-  responseTime: "*/5 * * * *"
-  staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
-  updateTemplate: "*/5 * * * *"
-  updates: "*/5 * * * *"
-  uptime: "*/5 * * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/10 * * * *"
+  graphs: "*/10 * * * *"
+  updateTemplate: "*/10 * * * *"
       
 
 # Upptime also supports notifications, assigning issues, and more
