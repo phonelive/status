@@ -47,6 +47,9 @@ workflowSchedule:
   uptime: "*/10 * * * *"
   graphs: "*/10 * * * *"
   updateTemplate: "*/10 * * * *"
+  
+i18n:
+  footer: (c) PhoneLiveStreaming
       
 
 # Upptime also supports notifications, assigning issues, and more
