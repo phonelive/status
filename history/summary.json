@@ -41,18 +41,18 @@
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "api",
     "status": "up",
-    "uptime": "90.64%",
+    "uptime": "90.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.89%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "90.64%",
+    "uptimeWeek": "79.60%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "90.52%",
     "time": 477,
-    "timeDay": 311,
-    "timeWeek": 376,
+    "timeDay": 308,
+    "timeWeek": 374,
     "timeMonth": 477,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2023-06-08": 1263,
+      "2023-06-08": 1292,
       "2023-06-07": 764
     }
   },
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 72,
+    "time": 67,
+    "timeDay": 71,
     "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   }
 ]
