@@ -41,18 +41,18 @@
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "api",
     "status": "up",
-    "uptime": "89.80%",
+    "uptime": "89.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.86%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "89.80%",
+    "uptimeWeek": "77.65%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "89.71%",
     "time": 474,
     "timeDay": 311,
     "timeWeek": 364,
     "timeMonth": 474,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2023-06-09": 27,
+      "2023-06-09": 48,
       "2023-06-08": 1440,
       "2023-06-07": 764
     }
