@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 108,
+    "timeDay": 110,
     "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 116,
@@ -40,18 +40,20 @@
     "url": "https://api.phonelivestreaming.com/test/grafana/synthetic/monitoring",
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 214,
+    "timeDay": 218,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-02": 0
+    }
   },
   {
     "name": "Live (RTMP)",
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 63,
+    "timeDay": 64,
     "timeWeek": 64,
     "timeMonth": 64,
     "timeYear": 67,
