@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 112,
+    "time": 116,
+    "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
-    "timeYear": 115,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "api",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.55%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "97.22%",
+    "uptimeWeek": "71.25%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "97.19%",
     "time": 337,
-    "timeDay": 220,
+    "timeDay": 218,
     "timeWeek": 270,
     "timeMonth": 268,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-08-04": 663,
+      "2023-08-04": 692,
       "2023-08-03": 1440,
       "2023-08-02": 765
     }
@@ -70,8 +70,8 @@
     "uptimeYear": "100.00%",
     "time": 67,
     "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 64,
+    "timeWeek": 64,
+    "timeMonth": 65,
     "timeYear": 67,
     "dailyMinutesDown": {}
   }
