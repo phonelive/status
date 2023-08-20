@@ -1,7 +1,7 @@
 url: https://api.phonelivestreaming.com/test/grafana/synthetic/monitoring
 status: up
 code: 200
-responseTime: 107
-lastUpdated: 2023-08-20T19:05:19.945Z
+responseTime: 91
+lastUpdated: 2023-08-20T19:33:31.407Z
 startTime: Wed May 24 2023 20:02:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
