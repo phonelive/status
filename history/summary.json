@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 85,
-    "timeWeek": 94,
+    "timeDay": 83,
+    "timeWeek": 93,
     "timeMonth": 94,
     "timeYear": 112,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 76,
-    "timeWeek": 81,
+    "timeDay": 74,
+    "timeWeek": 80,
     "timeMonth": 82,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://api.phonelivestreaming.com/test/grafana/synthetic/monitoring",
     "icon": "https://phonelivestreaming.com/logo/icon.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 187,
+    "timeDay": 182,
     "timeWeek": 183,
     "timeMonth": 201,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-24": 1
+    }
   },
   {
     "name": "Live (RTMP)",
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 53,
+    "timeDay": 50,
     "timeWeek": 54,
     "timeMonth": 55,
     "timeYear": 62,
